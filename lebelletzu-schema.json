@@ -51,7 +51,22 @@
   "telephone": "+61 429-088-544",
   "email": "margaret@lebelletzu.com",
   "priceRange": "$$$",
-  "keywords": ["shih tzu perth", "perth region", "wa region", "purebred shih tzu"],
+  "keywords": [
+  "shih tzu perth",
+  "perth region",
+  "wa region",
+  "shih tzu melbourne",
+  "melbourne region",
+  "vic region",
+  "shih tzu sydney",
+  "sydney region",
+  "nsw region",
+  "shih tzu brisbane",
+  "brisbane region",
+  "qld region",
+  "purebred shih tzu",
+  "australia-wide shih tzu"
+],
   "openingHoursSpecification": [
     {
       "@type": "OpeningHoursSpecification",
