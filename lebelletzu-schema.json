@@ -9,7 +9,11 @@
     "@type": "PostalAddress",
     "addressLocality": "Perth",
     "addressRegion": "WA",
-    "addressCountry": "AU"
+    "postalCode": "6000", 
+    "addressCountry": {
+      "@type": "Country",
+      "name": "AU"
+    }
   },
   "geo": {
     "@type": "GeoCoordinates",
