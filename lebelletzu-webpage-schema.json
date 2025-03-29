@@ -8,6 +8,13 @@
   "publisher": {
     "@type": "LocalBusiness",
     "name": "Lebelletzu Purebred Shih Tzus",
-    "url": "https://lebelletzu.com/"
+    "url": "https://lebelletzu.com/",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Perth",
+      "addressRegion": "WA",
+      "postalCode": "6000",
+      "addressCountry": "AU"
+    }
   }
 }
