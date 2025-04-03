@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "WebPage",
   "name": "Lebelletzu Purebred Shih Tzus - Home",
-  "description": "Elite pedigree, certified purebred Shih Tzu puppies from Lebelletzu, an MDBA-registered breeder since 2015, based in the Perth and WA region. Australia-wide delivery available.",
+  "description": "Elite pedigree, certified purebred Shih Tzu puppies from Lebelletzu, an MDBA-registered breeder since 2015, based Western Australia. Nation-wide and international delivery available*",
   "url": "https://lebelletzu.com/",
   "image": "https://raw.githubusercontent.com/BSMediaGroup/Resources/refs/heads/master/IMG/112.jpg",
   "publisher": {
@@ -15,6 +15,20 @@
       "addressRegion": "WA",
       "postalCode": "6000",
       "addressCountry": "AU"
-    }
+    },
+    "areaServed": [
+      {
+        "@type": "Country",
+        "name": "Australia"
+      },
+      {
+        "@type": "Country",
+        "name": "Singapore"
+      },
+      {
+        "@type": "Country",
+        "name": "United States"
+      }
+    ]
   }
 }

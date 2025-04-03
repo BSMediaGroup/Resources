@@ -5,7 +5,7 @@
   "name": "Lebelletzu Purebred Shih Tzus",
   "legalName": "Lebelletzu Purebred Shih Tzus",
   "url": "https://lebelletzu.com/",
-  "description": "Elite pedigree, certified purebred Shih Tzu puppies from an MDBA-registered breeder in Perth, WA region, with Australia-wide delivery.",
+  "description": "Elite pedigree, certified purebred Shih Tzu puppies from Lebelletzu, an MDBA-registered breeder since 2015, based Western Australia. Nation-wide and international delivery available*",
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "Perth",
@@ -53,6 +53,64 @@
     {
       "@type": "Place",
       "name": "Australia"
+    },
+    {
+      "@type": "Place",
+      "name": "Singapore",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 1.3521,
+        "longitude": 103.8198
+      }
+    },
+    {
+      "@type": "Place",
+      "name": "Los Angeles, CA, United States",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 34.0522,
+        "longitude": -118.2437
+      }
+    },
+    {
+      "@type": "Place",
+      "name": "New York, NY, United States",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 40.7128,
+        "longitude": -74.0060
+      }
+    },
+    {
+      "@type": "Place",
+      "name": "Miami, FL, United States",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 25.7617,
+        "longitude": -80.1918
+      }
+    },
+    {
+      "@type": "Place",
+      "name": "Palm Beach, FL, United States",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 26.7056,
+        "longitude": -80.0364
+      }
+    },
+    {
+      "@type": "Place",
+      "name": "Dallas-Fort Worth, TX, United States",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 32.7767,
+        "longitude": -96.7970
+      }
+    },
+    {
+      "@type": "Place",
+      "name": "United States"
     }
   ],
   "telephone": "+61 429-088-544",
@@ -72,7 +130,31 @@
     "brisbane region",
     "qld region",
     "purebred shih tzu",
-    "australia-wide shih tzu"
+    "australia-wide shih tzu",
+    "shih tzu singapore",
+    "singapore shih tzu",
+    "shih tzu breeder singapore",
+    "purebred shih tzu singapore",
+    "shih tzu puppies singapore",
+    "buy shih tzu singapore",
+    "shih tzu usa",
+    "shih tzu united states",
+    "shih tzu breeder usa",
+    "purebred shih tzu usa",
+    "shih tzu puppies usa",
+    "buy shih tzu usa",
+    "shih tzu los angeles",
+    "shih tzu new york",
+    "shih tzu miami",
+    "shih tzu palm beach",
+    "shih tzu dallas-fort worth",
+    "shih tzu puppies texas",
+    "purebred shih tzu florida",
+    "shih tzu international delivery",
+    "elite shih tzu puppies",
+    "champion pedigree shih tzu",
+    "MDBA shih tzu breeder",
+    "MDBA breeder"
   ],
   "openingHoursSpecification": [
     {
