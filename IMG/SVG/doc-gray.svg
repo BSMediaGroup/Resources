@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 800 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;">
+    <g id="Group_176" transform="matrix(14.8906,0,0,14.8906,-2690.1,-6617.64)">
+        <g id="Group_175">
+            <g id="Group_170">
+                <path id="Path_548" d="M228.256,490.4C228.256,480.281 226.906,471.861 213.477,470.035C212.032,471.846 209.837,472.903 207.52,472.903C205.202,472.903 203.007,471.846 201.562,470.035C188.149,471.862 186.783,480.282 186.783,490.399" style="fill:none;fill-rule:nonzero;stroke:rgb(64,64,64);stroke-width:2.59px;"/>
+            </g>
+            <g id="Group_171">
+                <path id="Path_550" d="M215.756,456.157C215.756,461.925 211.668,466.97 207.528,466.969C203.388,466.968 199.579,461.918 199.299,456.157C199.019,450.396 202.438,445.712 207.528,445.712C212.618,445.712 215.756,450.388 215.756,456.157Z" style="fill:none;fill-rule:nonzero;stroke:rgb(64,64,64);stroke-width:2.59px;"/>
+            </g>
+            <g id="Group_172">
+                <path id="Path_551" d="M194.616,480.594C193.176,484.263 193.216,489.848 193.216,493.694C197.767,495.512 202.623,496.446 207.523,496.447C212.429,496.448 217.288,495.494 221.829,493.639C221.829,490.148 221.799,485.122 220.781,481.629" style="fill:none;fill-rule:nonzero;stroke:rgb(64,64,64);stroke-width:2.59px;"/>
+            </g>
+            <g id="Group_173">
+                <path id="Path_552" d="M186.783,490.4C186.783,491.109 189.791,492.772 193.183,492.772" style="fill:none;fill-rule:nonzero;stroke:rgb(64,64,64);stroke-width:2.59px;"/>
+            </g>
+            <g id="Group_174">
+                <path id="Path_553" d="M228.256,490.4C228.256,491.109 225.248,492.772 221.856,492.772" style="fill:none;fill-rule:nonzero;stroke:rgb(64,64,64);stroke-width:2.59px;"/>
+            </g>
+        </g>
+        <path id="Path_555" d="M213.045,482.787L209.393,482.787L209.393,479.135L205.645,479.135L205.645,482.787L201.993,482.787L201.993,486.535L205.645,486.535L205.645,490.187L209.393,490.187L209.393,486.535L213.045,486.535L213.045,482.787Z" style="fill:none;fill-rule:nonzero;stroke:rgb(64,64,64);stroke-width:2.07px;"/>
+    </g>
+</svg>
