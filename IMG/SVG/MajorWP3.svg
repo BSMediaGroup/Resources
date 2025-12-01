@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1032 983" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1.33427,0,0,1.43653,-3.85479,0)">
+        <path d="M389.368,0L492.076,246.601L775.847,261.296L555.554,428.399L628.225,684.082L389.368,540.756L150.511,684.082L223.182,428.399L2.889,261.296L286.659,246.601L389.368,0ZM389.368,269.59L362.387,334.372L287.841,338.232L345.711,382.13L326.621,449.297L389.368,411.646L452.115,449.297L433.025,382.13L490.895,338.232L416.349,334.372L389.368,269.59Z" style="fill:white;"/>
+        <clipPath id="_clip1">
+            <path d="M389.368,0L492.076,246.601L775.847,261.296L555.554,428.399L628.225,684.082L389.368,540.756L150.511,684.082L223.182,428.399L2.889,261.296L286.659,246.601L389.368,0ZM389.368,269.59L362.387,334.372L287.841,338.232L345.711,382.13L326.621,449.297L389.368,411.646L452.115,449.297L433.025,382.13L490.895,338.232L416.349,334.372L389.368,269.59Z"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <g transform="matrix(1.17355,-2.19432,1.92133,0.904549,-1070.42,1667.97)">
+                <ellipse cx="722" cy="319" rx="159" ry="196" style="fill:url(#_Radial2);"/>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(1.02584,0,0,1.10446,116.239,118.582)">
+        <path d="M389.368,0L492.076,246.601L775.847,261.296L555.554,428.399L628.225,684.082L389.368,540.756L150.511,684.082L223.182,428.399L2.889,261.296L286.659,246.601L389.368,0ZM389.368,243.28L354.274,327.539L257.315,332.56L332.585,389.656L307.755,477.019L389.368,428.047L470.981,477.019L446.151,389.656L521.421,332.56L424.462,327.539L389.368,243.28Z" style="fill:white;"/>
+        <clipPath id="_clip3">
+            <path d="M389.368,0L492.076,246.601L775.847,261.296L555.554,428.399L628.225,684.082L389.368,540.756L150.511,684.082L223.182,428.399L2.889,261.296L286.659,246.601L389.368,0ZM389.368,243.28L354.274,327.539L257.315,332.56L332.585,389.656L307.755,477.019L389.368,428.047L470.981,477.019L446.151,389.656L521.421,332.56L424.462,327.539L389.368,243.28Z"/>
+        </clipPath>
+        <g clip-path="url(#_clip3)">
+            <g transform="matrix(-0.662415,-2.37163,2.08934,-0.486727,201.558,2239.8)">
+                <ellipse cx="722" cy="319" rx="159" ry="196" style="fill:url(#_Radial4);"/>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <radialGradient id="_Radial2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(318,0,0,392,563,319)"><stop offset="0" style="stop-color:rgb(209,98,0);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(255,224,66);stop-opacity:1"/></radialGradient>
+        <radialGradient id="_Radial4" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(318,0,0,392,563,319)"><stop offset="0" style="stop-color:rgb(209,98,0);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(255,224,66);stop-opacity:1"/></radialGradient>
+    </defs>
+</svg>
